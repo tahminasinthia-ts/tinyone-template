@@ -1,0 +1,2 @@
+# tinyone-template
+bootstrap template
